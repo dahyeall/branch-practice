@@ -1,2 +1,2 @@
-# branch-practice
-260205 특강 실습3
+# Awesome git branch
+내용 출동이 일어나게 main을 바꿔주자!
